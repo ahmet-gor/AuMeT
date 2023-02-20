@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AuMeT
 - 👀 I’m interested in COding
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on 👀
+- 🌱 I’m currently learning Node technologies
+- 👀 I’m looking to collaborate on 
 - 📫 How to reach me kukuli.seafight@gmail.com
 
 <!---
