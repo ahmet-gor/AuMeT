@@ -1,9 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T13:51:43.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.8.0" etag="aLzN2XpQph6xJF9nzHWk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T16:23:56.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CfoA_AYCaObPnNsVJ0Km" version="21.8.0" type="github">
   <diagram name="Page-1" id="0nCdsxyS8wP6Nx4TGziV">
-    <mxGraphModel>
+    <mxGraphModel dx="1830" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-1" value="GGAME" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FF5745;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="450" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-3" value="FRONT END" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-4" value="React native" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WtnPw7AoCNBDXHFoDNPq-3">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-7" value="BACK END" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="20" width="140" height="120" as="geometry">
+            <mxRectangle x="650" y="20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-8" value="Laravel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WtnPw7AoCNBDXHFoDNPq-7">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-10" value="Node JS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WtnPw7AoCNBDXHFoDNPq-7">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WtnPw7AoCNBDXHFoDNPq-11" value="?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="WtnPw7AoCNBDXHFoDNPq-7">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
