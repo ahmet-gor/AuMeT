@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T22:37:39.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jZYCx5sHBh_yQZ7mrgNB" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T06:38:58.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="c9lE2P10L2pXB06RT96y" version="21.8.0" type="github">
   <diagram name="Page-1" id="0nCdsxyS8wP6Nx4TGziV">
     <mxGraphModel dx="1764" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WtnPw7AoCNBDXHFoDNPq-52" value="Register" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="670" width="140" height="78" as="geometry" />
+          <mxGeometry x="50" y="580" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="WtnPw7AoCNBDXHFoDNPq-54" value="Mail ile kayıt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="WtnPw7AoCNBDXHFoDNPq-52">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
